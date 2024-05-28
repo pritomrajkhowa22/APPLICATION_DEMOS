@@ -16,18 +16,18 @@ https://github.com/pritomrajkhowa22/APPLICATION_DEMOS/assets/171015873/ca043861-
 ## Demo 2
 
 
-file:///home/pritom/Development/BLOCKCHAIN/PROJECT_DEMO/SECURAT/SECURAT2.mp4
+(https://github.com/pritomrajkhowa22/APPLICATION_DEMOS/blob/master/SECURAT/SECURAT2.mp4)
 
 
 
 ## Demo 3
 
-file:///home/pritom/Development/BLOCKCHAIN/PROJECT_DEMO/SECURAT/SECURAT3.mp4
+(https://github.com/pritomrajkhowa22/APPLICATION_DEMOS/blob/master/SECURAT/SECURAT3.mp4)
 
 
 
 ## Demo 4
 
-file:///home/pritom/Development/BLOCKCHAIN/PROJECT_DEMO/SECURAT/SECURAT4.mp4
+(https://github.com/pritomrajkhowa22/APPLICATION_DEMOS/blob/master/SECURAT/SECURAT4.mp4)
 
 
