@@ -1,6 +1,6 @@
 # Siri 2.0 
 
-## Technology Used
+### Technology Used
 ### NEXT.JS  
 ### Microsoft Azure
 ### OpenAI
@@ -17,6 +17,8 @@
 ## Used TypeScript to reduce the overall number of Bugs and Errors
 
 # Demo Video
+
+https://github.com/pritomrajkhowa22/APPLICATION_DEMOS/blob/master/LLM_BASED_SIRI/LLM_BASED_SIRI.mp4
 
 
 
