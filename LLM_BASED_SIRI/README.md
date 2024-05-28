@@ -1,24 +1,26 @@
-# SECURAT APPLICATION DEMO
+# Siri 2.0 
 
-1. Designed, developed and deployed a smart contract scanning tool built to discover vulnerabilities and mitigate risks in your code, as well as comprehensive security and risk assessment and ranking for Web3 applications. The smart contract scanning part is built on top of SMARTV and SmartOPT
-
- 2. Designed an interactive, comprehensive dashboard for famous crypto-projects that offers a range of tools and analytics along with security alerts. 
-
-
-
-## Demo 1
-
+## Technology Used
+### NEXT.JS  
+### Microsoft Azure
+### OpenAI
+### Whisper Speech Recognition AI, 
+### TS
 
 
+## Created a Beautiful UI & UX for our Siri 2.0 clone!
+## Used the Azure OpenAI Whisper Speech Recognition Service to convert speech to text!
+## created and leveraged the power of Azure OpenAI Service to generate AI Assistant Chat Completions at scal
+## Used the MediaRecorder interface of the MediaStream Recording API to capture user audio!
+## Used the Web Speech API interface to synthesise an artificial voice to output the AI Assistant replies!
+## built a beautiful UI design with Tailwind CSS!
+## Used TypeScript to reduce the overall number of Bugs and Errors
 
-## Demo 2
+# Demo Video
 
 
 
 
-## Demo 3
 
 
-
-## Demo 4
 
