@@ -15,6 +15,8 @@ https://github.com/pritomrajkhowa22/APPLICATION_DEMOS/assets/171015873/ca043861-
 
 ## Demo 2
 
+https://github.com/pritomrajkhowa22/APPLICATION_DEMOS/blob/master/SECURAT/SECURAT2.mp4
+
 
 
 
